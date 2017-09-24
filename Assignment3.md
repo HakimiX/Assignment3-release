@@ -10,9 +10,9 @@ We had problems with the dataframe and was not able to read the whole dataset of
 
 ### 2. Geocode the entire dataset of danish housing data
 
-We were able to geocode 78 lines 
+We were able to geocode 2210225 lines 
 
 
 ### 3. Scatter plot
 
-![Text](https://github.com/HakimiX/BusinessIntelligence/blob/master/Assignment3/scatterplot.png)
+![Text](https://github.com/HakimiX/Assignment3-release/blob/master/scatterplot.png)
